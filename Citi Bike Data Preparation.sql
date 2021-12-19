@@ -113,8 +113,7 @@ FROM NYCCityBike..NYCBikeShare
 ORDER BY Age
 
 ALTER TABLE NYCCityBike..NYCBikeShare
-DROP COLUMN [Start Station Latitude], [Start Station Longitude], [End Station Latitude], [End Station Longitude]
-
+DROP COLUMN [F1], [Start Station Latitude], [Start Station Longitude], [End Station Latitude], [End Station Longitude], [Gender]
 
 ------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------DIVE DEEPER INTO THE DATA--------------------------------------------------------
