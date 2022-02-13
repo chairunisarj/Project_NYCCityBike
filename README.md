@@ -1,15 +1,16 @@
-# Project_NYCCitiBike
+# Project_NYCCityBike
 
 Through this project, I train myself to do preparation for the data before doing the analysis.  
 Before I begin, these are several information about the Projects.  
 
-## Acknowledgments -
+## Acknowledgments -  
+The New York City Bike Share enables quick, easy, and affordable bike trips around the New York city boroughs. They make regular open data releases (this dataset is a transformed version of the data from [this link](https://ride.citibikenyc.com/system-data)). The dataset contains 735502 anonymised trips information made from Jan 2015 to June 2017.
 
 I get the data from [here](https://www.kaggle.com/akkithetechie/new-york-city-bike-share-dataset) and get the explanation of the data format from [here](https://ride.citibikenyc.com/system-data).
 
 This dataset is the property of NYC Bike Share, LLC and Jersey City Bike Share, LLC (“Bikeshare”) operates New York City’s Citi Bike bicycle sharing service for T&C click https://ride.citibikenyc.com/data-sharing-policy .
 
-When I was working for this project, I just know several basic of SQL.  
+> When I was working for this project, I just know several basic of SQL.  
 It really took me back and forth to study the dataset and get the idea of it.  
 It also took a lot of browser tabs to find which syntax will do the job and what I have to do for doing the EDA.  
 
